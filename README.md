@@ -1,5 +1,4 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-![Snake animation](https://github.com/profhdeivisson/profhdeivisson/blob/output/github-contribution-grid-snake.svg)
 ## Olá mundo, eu sou Deivisson Henrique!
 Sou Profissional de Tecnologia, CEO da <a href="https://tudoinforj.com.br" target="_blank">TudoInfoRJ</a> e um grande amante de Tecnologia 💻, Programação 👨🏾‍💻, Música 🎶, Filmes 🎬 e Séries ⚡
 
