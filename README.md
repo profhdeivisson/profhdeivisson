@@ -1,5 +1,5 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-## Olá mundo, eu sou Deivisson Henrique!
+# Olá mundo, eu sou Deivisson Henrique!
+
 Sou Profissional de Tecnologia, CEO da <a href="https://tudoinforj.com.br" target="_blank">TudoInfoRJ</a> e um grande amante de Tecnologia 💻, Programação 👨🏾‍💻, Música 🎶, Filmes 🎬 e Séries ⚡
 
 Pai de 3 filhos lindos, Casado e sempre em busca de novas experiências e novos conhecimentos. Graduando em Análise e Desenvolvimento de Sistemas. Atualmente trabalho em uma ONG como Coordenador de Inovações Tecnológicas; atuo lecionando tecnologia, programação e robótica para diversas idades e sou responsável por dar manutenção em um projeto Java que funciona em dispositivos Android e Pc (windows). Além disso, trabalho como desenvolvedor web (WordPress) como freelancer (Mei). Possuo conhecimentos em HTML 5, CSS 3, JavaScript, ReactJS e PHP. Aqui, você verá um pouco sobre mim, minhas skills e alguns projetos pessoais feitos em Javascript. Fique a vontade! 😉
