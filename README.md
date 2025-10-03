@@ -1,6 +1,6 @@
 # Olá mundo, eu sou Deivisson Henrique!
 
-Sou Desenvolvedor Front-End na Olivas Digital, responsável pela criação de páginas web utilizando tecnologias como Javascript, Bootstrap, Sass/SCSS, ReactJS/NextJS/NodeJS, Git/Bitbucket e PHP para integração com Wordpress.
+Sou Desenvolvedor Front-End em uma MarTech, responsável pela criação de páginas web utilizando tecnologias como Javascript/Typescript, Bootstrap/Tailwind CSS, Sass/SCSS, ReactJS/NextJS/NodeJS, Git/Bitbucket e PHP para integração com Wordpress.
 
 Também sou Desenvolvedor Web Freelancer pela TudoInfoRJ, com mais de sete anos de experiência em criar sites e soluções digitais para diversos clientes e segmentos. Além disso, formado em Análise e Desenvolvimento de Sistemas pela Universidade Candido Mendes. Sou apaixonado por tecnologia, educação e inovação, e estou sempre pronto para novos desafios.
 
@@ -15,9 +15,14 @@ Também sou Desenvolvedor Web Freelancer pela TudoInfoRJ, com mais de sete anos 
 <a href = "mailto:profhdeivisson@yahoo.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/profhdeivisson" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://profhdeivisson.github.io" target="_blank"><img src="https://img.shields.io/badge/-Meu%20Portfólio-lightgrey?style=for-the-badge"></a>
 </div>
-
+<br>
 <div>
 <a href="https://github.com/profhdeivisson">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=profhdeivisson&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=profhdeivisson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <p align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=profhdeivisson&theme=react&show_icons=true&hide_border=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=profhdeivisson&theme=react&show_icons=true&hide_border=true&layout=compact"/>
+  </p>
+  <p align="center">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=profhdeivisson&theme=react&hide_border=true"/>
+  </p>
 </div>
